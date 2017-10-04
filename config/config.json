@@ -1,0 +1,9 @@
+{
+    "development": {
+        "username": "test_user",
+        "password": "password1235",
+        "database": "photospot",
+        "host": "testdbs.cx9nwtqithkq.eu-west-2.rds.amazonaws.com",
+        "dialect": "postgresql"
+    }
+}
